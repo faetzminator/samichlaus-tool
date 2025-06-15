@@ -2,5 +2,5 @@
 
 Dokumentation des Samichlaus-Tool.
 
-- [Verwaltung Termine](/termine/)
-- [Technisches](/tech/)
+- [Verwaltung Termine](./termine/)
+- [Technisches](./tech/)
