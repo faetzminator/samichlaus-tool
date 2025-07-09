@@ -31,8 +31,8 @@ Text
 
 #### Einstellungen
 
-- Price per: - [x] Inherit Service Price
-- Benutzerdefinierten Zeitplan verwenden: - [ ] (off)
+- [x] Inherit Service Price
+- [ ] Benutzerdefinierten Zeitplan verwenden
 
 ### Aussenstandorte
 
@@ -48,8 +48,8 @@ Text
 
 #### Einstellungen
 
-- Price per: - [x] Inherit Service Price
-- Benutzerdefinierten Zeitplan verwenden: - [x] (on)
+- [x] Inherit Service Price
+- [x] Benutzerdefinierten Zeitplan verwenden
 - Dauer: `02:00`
 - Arbeitstage: `<Von>` - `<Bis>` (Sa & So)
 - Arbeitsstunden:

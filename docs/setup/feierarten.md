@@ -37,11 +37,11 @@ Beschreibung
 - Short: **TBD**
 - Dauer: `00:20`
 - Preis Label: `Spende:`
-- Preis individuell: - [x] (on)
+- [x] Preis individuell
 - Kapazität: `3` (für 1h)
-- Price per: - [x] Slot
-- Preis pro Slot: `0` - **niemals überschreiben!*
-- Benutzerdefinierten Zeitplan verwenden: - [ ] (off)
+- [x] Price per: Slot
+- Preis pro Slot: `0` - **niemals überschreiben!**
+- [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 
 ### Familienbesuch ab 5 Kinder
@@ -71,12 +71,12 @@ Beschreibung
 
 - Short: **TBD**
 - Dauer: `00:40`
-- Preis Label: `Preis ab:`
-- Preis ab: - [x] (on)
+- Preis Label: `Preis:`
+- [x] Preis ab
 - Kapazität: `1` (für 1-2h)
-- Price per: - [x] Slot
+- [x] Price per: Slot
 - Preis pro Slot: `100`
-- Benutzerdefinierten Zeitplan verwenden: - [ ] (off)
+- [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 
 ### Aussenstandorte
@@ -107,9 +107,9 @@ Beschreibung
 - Short: **TBD**
 - Dauer: `00:20` / `00:40`*
 - Preis Label: `Preis pro Kind:`
-- Preis pro Kind: - [x] (on)
+- [x] Preis pro Kind
 - Kapazität: `6` (für 2h) / `1`* (für 2h)
-- Price per: - [x] Slot
+- [x] Price per: Slot
 - Preis pro Slot: `25`
-- Benutzerdefinierten Zeitplan verwenden: - [ ] (off)
+- [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
