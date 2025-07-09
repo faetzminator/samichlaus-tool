@@ -1,4 +1,4 @@
-# Einrichtung Crocoblock
+# Einrichtung Crocoblock - JetAppointments
 
 ## General Settings
 
@@ -14,3 +14,11 @@
   - Sa & So allenfalls abweichend
 - Arbeitstage
   - `<Von>` - `<Bis>` gemäss Daten der gesamten Aktion
+
+## Advanced
+
+- Availability check by: By each service
+- How to process on-hold appointments: Exclude on-hold slots from calendar
+- [ ] Automatically switch appointments status
+- [ ] Generate Configuration URLs
+- [x] Hide Set Up Wizard
