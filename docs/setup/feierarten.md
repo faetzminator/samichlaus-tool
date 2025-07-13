@@ -13,9 +13,12 @@
 
 Titel: Familienfeier bis 4 Kinder in `<Ort>`
 
-Text gerne in zwei Spalten:
+H3:
 
 > <h3>Ablauf eines Samichlaus-Besuches</h3>
+
+Text gerne in zwei Spalten:
+
 > Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf der «Notizen für den Samichlaus» notiert.
 >
 > Eine Familienfeier beginnt mit einer Geschichte: Samichlaus erzählt zum Beispiel, was er und Schmutzli im Waldhüsli erleben. Danach schlägt Schmutzli das Buch auf und berichtet Samichlaus, was er das Jahr hindurch «gesehen» hat.
@@ -46,11 +49,14 @@ Beschreibung
 
 ### Familienbesuch ab 5 Kinder
 
-Titel: Familienfeier bis 4 Kinder in `<Ort>`
+Titel: Familienfeier ab 5 Kinder in `<Ort>`
+
+H3:
+
+> <h3>Ablauf eines Samichlaus-Besuches</h3>
 
 Text gerne in zwei Spalten:
 
-> <h3>Ablauf eines Samichlaus-Besuches</h3>
 > Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf der «Notizen für den Samichlaus» notiert.
 >
 > Eine Familienfeier beginnt mit einer Geschichte: Samichlaus erzählt zum Beispiel, was er und Schmutzli im Waldhüsli erleben. Danach schlägt Schmutzli das Buch auf und berichtet Samichlaus, was er das Jahr hindurch «gesehen» hat.
@@ -81,11 +87,14 @@ Beschreibung
 
 ### Aussenstandorte
 
-Titel: Familienfeier bis 4 Kinder im `<Standort>`
+Titel: Familienfeier bis 4 Kinder / ab 5 Kinder im `<Standort>`
+
+H3:
+
+> <h3>Aussenstandort &lt;Standort&gt;</h3>
 
 Text gerne in zwei Spalten:
 
-> <h3>Aussenstandort `&lt;Standort&gt;`</h3>
 > Alternativ zu den Hausbesuchen empfängt Samichlaus und Schmutzli wahlweise Familien an unserem Aussenstandort.
 >
 > An **ausgewählten Daten** im Dezember feiern Samichlaus und Schmutzli zusammen mit Kindern und Ihren Familien im Waldhüsli.
