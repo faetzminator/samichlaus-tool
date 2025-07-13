@@ -85,8 +85,8 @@ Titel: Familienfeier bis 4 Kinder im `<Standort>`
 
 Text gerne in zwei Spalten:
 
-> <h3>Aussenstandort `<Standort>`</h3>
-> Alternativ zu den Hausbesuchen empängt Samichlaus und Schmutzli wahlweise Familien an unserem Aussenstandort.
+> <h3>Aussenstandort `&lt;Standort&gt;`</h3>
+> Alternativ zu den Hausbesuchen empfängt Samichlaus und Schmutzli wahlweise Familien an unserem Aussenstandort.
 >
 > An **ausgewählten Daten** im Dezember feiern Samichlaus und Schmutzli zusammen mit Kindern und Ihren Familien im Waldhüsli.
 >
