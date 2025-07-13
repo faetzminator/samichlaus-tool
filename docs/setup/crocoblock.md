@@ -2,7 +2,7 @@
 
 ## General Settings
 
-- [x] Manage Capcity
+- [x] Manage Capacity
 - [x] Show Capacity Counter
 - [ ] User Can Manage Booked Capacity
 
