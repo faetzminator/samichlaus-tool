@@ -47,6 +47,9 @@ Beschreibung
 - [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 
+Rechts
+- Related Anbieter: *korrekten Anbieter verknüpfen*
+
 ### Familienbesuch ab 5 Kinder
 
 Titel: Familienfeier ab 5 Kinder in `<Ort>`
@@ -85,6 +88,9 @@ Beschreibung
 - [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 
+Rechts
+- Related Anbieter: *korrekten Anbieter verknüpfen*
+
 ### Aussenstandorte
 
 Titel: Familienfeier bis 4 Kinder / ab 5 Kinder im `<Standort>`
@@ -122,3 +128,6 @@ Beschreibung
 - Preis pro Slot: `25`
 - [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
+
+Rechts
+- Related Anbieter: *korrekten Anbieter verknüpfen*
