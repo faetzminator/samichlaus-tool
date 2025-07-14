@@ -131,3 +131,16 @@ Beschreibung
 
 Rechts
 - Related Anbieter: *korrekten Anbieter verknüpfen*
+
+## Benutzerdefinierter Zeitplan
+
+Falls die Arbeitsstunden oder die Arbeitstage einer Feierart (z.B. gewisse Aussengemeinden) vom jeweiligen [Anbieter](./anbieter.md)
+(oder den [Standards](./crocoblock.md)) abweichen, muss ein benutzerdefinierter Zeitplan verwendet werden.
+
+**Alle Einstellungen** müssen entsprechend überschrieben werden. Leer erfasste Arbeitstage oder Arbeitsstunden werden
+beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.
+
+- [x] Benutzerdefinierten Zeitplan verwenden
+- Dauer: *gemäss Feierart*
+- Arbeitstage: *gemäss Feierart*
+- Arbeitsstunden: *gemäss Feierart*

@@ -37,3 +37,29 @@
 |        |                                                           |
 | 21     | Rütihof früh                                              |
 | 22     | Rütihof spät                                              |
+
+## Zeiten
+
+| Tour            | Tage        | Zeit                           | Kapazität |
+|-----------------|-------------|--------------------------------|-----------|
+| Familienbesuche | Mo - So     | 18:00 - 19:00<br>19:20 - 20:20 | 3<br>3    |
+| Rütihof früh    | Sa &amp; So | 16:00 - 18:00                  | 6         |
+| Rütihof spät    | Sa &amp; So | 18:20 - 20:20                  | 6         |
+
+## Gestaffelte Freischaltung
+
+Wir lassen zu Beginn die Randdaten weg.
+
+Beispiel 6. Dez Freitag: Öffnen der Buchungen vom Mittwoch bis Sonntag.
+
+Falls nötig, weitere Daten (früher oder später) pro Anbieter öffnen.
+
+## Kombinierte Touren
+
+Kombinierte Touren 31 bis 34 gestalten sich schwierig mit unserem Kapazität-Management.
+Wir gehen aktuell davon aus, dass sich dies durch Angebot und Nachfrage regeln lässt.
+
+Die kombinierten Touren müssen innerhalb eines [Anbieters](./anbieter.md) angelegt werden.
+
+Wenn die einzelnen Ortschaften (innerhalb eines Anbieters) zu unterschiedlichen Daten freigeschaltet werden,
+müssen die [Feierarten](./feierarten.md) dementsprechend *Arbeitstage* definieren.

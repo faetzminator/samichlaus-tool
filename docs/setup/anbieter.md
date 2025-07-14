@@ -55,3 +55,16 @@ Text
 - Arbeitsstunden:
   - `16:00` - `18:00`
   - `18:20` - `20:20`
+
+## Benutzerdefinierter Zeitplan
+
+Falls die Arbeitsstunden oder die Arbeitstage eines Anbieters (z.B. Aussengemeinden, Aussenstandorte) von den
+[Standards](./crocoblock.md) abweichen, muss ein benutzerdefinierter Zeitplan verwendet werden.
+
+**Alle Einstellungen** müssen entsprechend überschrieben werden. Leer erfasste Arbeitstage oder Arbeitsstunden werden
+beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.
+
+- [x] Benutzerdefinierten Zeitplan verwenden
+- Dauer: *gemäss Anbieter*
+- Arbeitstage: *gemäss Anbieter*
+- Arbeitsstunden: *gemäss Anbieter*
