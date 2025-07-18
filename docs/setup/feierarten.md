@@ -144,3 +144,8 @@ beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.
 - Dauer: *gemäss Feierart*
 - Arbeitstage: *gemäss Feierart*
 - Arbeitsstunden: *gemäss Feierart*
+
+## FAQ
+
+- Related Anbieter (rechts) ist doppelt gemoppelt. Unbedingt immer gleich mit dem Parent Anbieter setzen!
+- Feierarten im Papierkorb sind sichtbar auf der Buchungsseite. Darum nicht benötigte Feierarten ganz löschen (Papierkorb leeren).
