@@ -10,5 +10,6 @@ Todos
 
 - WP Plugin Newsletter
 - Steckbrief
-- Website: Kosten der Termine
 - Logo
+- Stadt Logo auf Home
+- Bestaetigungsmail: Steckbrief Reminder
