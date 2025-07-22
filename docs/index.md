@@ -12,4 +12,18 @@ Todos
 - Steckbrief
 - Logo
 - Stadt Logo auf Home
-- Bestaetigungsmail: Steckbrief Reminder
+- Bestätigungsmail: Steckbrief Reminder
+
+Fragen
+
+- Jahresverwaltung
+  - Warum ZH Touren im Format YY-NNN? Hat das technischen Hintergrund?
+  - Ablauf Start neues Jahr? Alte Daten löschen?
+- Technisch
+  - JetTermine müssen wann angepasst werden? Gibt es jemals einen Grund?
+
+Bugs & Features
+
+- Vorgezogene Buchungen aktivieren
+- Encoding PDF, Bindestrich
+- Testing Bestellung - Alternativdatum check
