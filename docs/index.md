@@ -21,6 +21,9 @@ Fragen
   - Ablauf Start neues Jahr? Alte Daten löschen?
 - Technisch
   - JetTermine müssen wann angepasst werden? Gibt es jemals einen Grund?
+- Div
+  - Handy-Nr in Touren PDF Header (Beni) - benötigt?
+  - WE ab 16:40 statt 17:00 i.O.?
 
 Bugs & Features
 
