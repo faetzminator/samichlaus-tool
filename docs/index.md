@@ -14,6 +14,7 @@ Todos
 - Logo
 - Stadt Logo auf Home
 - Bestätigungsmail: Steckbrief Reminder
+- Doku: [MkDocs](https://www.mkdocs.org/) ausprobieren, vielleicht [mike](https://github.com/jimporter/mike)
 
 Fragen
 

@@ -17,27 +17,27 @@
 
 ## Touren
 
-| Nr     | Beschreibung                                        | Gemeinden                                                            |
-|--------|-----------------------------------------------------|----------------------------------------------------------------------|
-| 01     | Bülach Soli                                         | Bülach                                                               |
-| 02     | Bülach Schleufenberg                                | Bülach                                                               |
-| 03     | Bülach Kaserne & Städtli                            | Bülach                                                               |
-| 04     | Höri, Hochfelden & Neerach                          | Höri, Hochfelden, Neerach (inkl. Riedt)                              |
-| 05     | Bachenbülach                                        | Bachenbülach                                                         |
-| 06     | Winkel & Lufingen                                   | Winkel (inkl. Rüti, Seeb), Lufingen                                  |
-| ~~07~~ | ~~Wehntal~~                                         |                                                                      |
-| 08     | Glattfelden, Stadel & Weiach                        | Glattfelden, Stadel b. N. (inkl. Raat, Schüpfheim, Windlach), Weiach |
-| 09     | Eglisau & Rafzerfeld                                | Eglisau, Hüntwangen, Wasterkingen, Wil, Rafz                         |
-| 10     | Embrach, Rorbas & Freienstein                       | Embrach, Rorbas, Freienstein-Teufen, Oberembrach                     |
-|        |                                                     |                                                                      |
-| 31     | 01 Bülach Soli<br>02 Bülach Schleufenberg           | s.o.                                                                 |
-| 32     | 05 Bachenbülach<br>06 Winkel & Lufingen             | s.o.                                                                 |
-| 33     | 03 Bülach Kaserne & Städtli<br>04 Höri & Hochfelden | s.o.                                                                 |
-| 34     | 09 Eglisau & Rafzerfeld<br>10 Embrach               | s.o.                                                                 |
-| 35     | 08 Glattfelden & Stadel<br>09 Eglisau & Rafzerfeld  | s.o.                                                                 |
-|        |                                                     |                                                                      |
-| 21     | Rütihof früh                                        |                                                                      |
-| 22     | Rütihof spät                                        |                                                                      |
+| Nr     | Beschreibung                                                | Gemeinden                                                                             |
+|--------|-------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 01     | Bülach Nord                                                 | Bülach (Soli, Bergli)                                                                 |
+| 02     | Bülach Ost                                                  | Bülach (Schleufenberg, Frohalden)                                                     |
+| 03     | Bülach West                                                 | Bülach (Städtli, Kasernenstr., Hinterbirch)                                           |
+| 04     | Höri, Hochfelden & Neerach                                  | Höri, Hochfelden, Neerach (inkl. Riedt)                                               |
+| 05     | Bachenbülach                                                | Bachenbülach                                                                          |
+| 06     | Winkel, Lufingen & Oberembrach                              | Winkel (inkl. Rüti, Seeb), Lufingen (inkl. Augwil), Oberembrach                       |
+| ~~07~~ | ~~Wehntal~~                                                 | ~~Rümlang, Oberglatt, Niederhasli, Dielsdorf, gesamtes Wehntal~~                      |
+| 08     | Glattfelden, Stadel & Weiach                                | Glattfelden (inkl. Siedlungen), Stadel b. N. (inkl. Raat, Schüpfheim, Windlach), Weiach |
+| 09     | Eglisau & Rafzerfeld                                        | Eglisau, Hüntwangen, Wasterkingen, Wil, Rafz                                          |
+| 10     | Embrach, Rorbas & Freienstein                               | Embrach, Rorbas, Freienstein-Teufen                                        |
+|        |                                                             |                                                                                       |
+| 31     | 01 Bülach Nord<br>02 Bülach Ost                             | s.o.                                                                                  |
+| 32     | 05 Bachenbülach<br>06 Winkel, Lufingen & Oberembrach        | s.o.                                                                                  |
+| 33     | 03 Bülach West<br>04 Höri, Hochfelden & Neerach             | s.o.                                                                                  |
+| 34     | 09 Eglisau & Rafzerfeld<br>10 Embrach, Rorbas & Freienstein | s.o.                                                                                  |
+| 35     | 08 Glattfelden, Stadel & Weiach<br>09 Eglisau & Rafzerfeld  | s.o.                                                                                  |
+|        |                                                             |                                                                                       |
+| 21     | Rütihof früh                                                |                                                                                       |
+| 22     | Rütihof spät                                                |                                                                                       |
 
 ## Zeiten
 

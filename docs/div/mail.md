@@ -17,7 +17,7 @@ Adresse: [zentrale@samichlaus-buelach.ch](mailto:zentrale@samichlaus-buelach.ch)
 
 ### Benachrichtigungen Website
 
-Adresse: [tech@samichlaus-buelach.ch](mailto:zentrale@samichlaus-buelach.ch)
+Adresse: [tech@samichlaus-buelach.ch](mailto:tech@samichlaus-buelach.ch)
 
 - E-Mails der Buchungen an uns
 - Weitere Mails von der Homepage
