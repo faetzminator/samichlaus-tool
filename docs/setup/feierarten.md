@@ -42,6 +42,7 @@ Beschreibung
 - Preis Label: `Spende:`
 - [x] Preis individuell
 - Kapazität: `3` (für 1h)
+  - Bülach: `8` (für 1h) bei Touren 01, 02, 03
 - [x] Price per: Slot
 - Preis pro Slot: `0` - **niemals überschreiben!**
 - [ ] Benutzerdefinierten Zeitplan verwenden
@@ -83,6 +84,7 @@ Beschreibung
 - Preis Label: `Preis:`
 - [x] Preis ab
 - Kapazität: `1` (für 1-2h)
+  - Bülach: `2` (für 1-2h) bei Touren 01, 02, 03
 - [x] Price per: Slot
 - Preis pro Slot: `100`
 - [ ] Benutzerdefinierten Zeitplan verwenden
