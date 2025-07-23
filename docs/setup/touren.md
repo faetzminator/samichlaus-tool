@@ -48,15 +48,16 @@
 | Rütihof früh    | Sa &amp; So | 16:00 - 18:00                                   | 6           |
 | Rütihof spät    | Sa &amp; So | 18:20 - 20:20                                   | 6           |
 
-&lowast; Kapazität Bülach natürlich höher wenn 3 Touren (01, 02, 03)
+&ast; Kapazität Bülach natürlich höher wenn 3 Touren (01, 02, 03)
 
 ## Gestaffelte Freischaltung
 
+**Folgende Idee wurde verworfen.**
+
 Wir lassen zu Beginn die Randdaten weg.
+Falls nötig, weitere Daten (früher oder später) pro Anbieter öffnen.
 
 Beispiel 6. Dez Freitag: Öffnen der Buchungen vom Mittwoch bis Sonntag.
-
-Falls nötig, weitere Daten (früher oder später) pro Anbieter öffnen.
 
 ## Kombinierte Touren
 
