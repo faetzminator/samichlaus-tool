@@ -2,7 +2,7 @@
 
 ## Buchungsfenster
 
-- Wir öffnen das Buchungstool vom ersten bis zum letzten Tag im November
+- Wir öffnen das Buchungstool vom ersten bis zum letzten Tag im November, siehe auch [Einrichtung / Einstellungen Samichlaus](../setup/samichlaus.md)
   - Im Idealfall findet der Chlauseinzug nicht erst im Dezember statt
   - Wir bieten keine (regulären) Touren im November an (d.h. keine Überschneidung)
 - Im Ausnahmefall können wir Termine für Kunden erfassen, siehe vorgezogene Buchungen
