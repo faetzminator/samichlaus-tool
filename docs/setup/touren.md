@@ -9,11 +9,11 @@
 
 ## Daten
 
-| Titel                    | Einsatzdatum |
-|--------------------------|--------------|
-| `Tour <DDNN> - <Text>`   | `DD.MM.YYYY` |
-| Tour 0622 - Rütihof spät | 06.12.2025   |
-| Tour 0701 - Bülach Soli  | 07.12.2025   |
+| Titel                  | Einsatzdatum |
+|------------------------|--------------|
+| `<YY>-<DDNN> - <Name>` | `DD.MM.YYYY` |
+| 25-0622 - Rütihof spät | 06.12.2025   |
+| 26-0701 - Bülach Nord  | 07.12.2026   |
 
 ## Touren
 
