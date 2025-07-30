@@ -9,11 +9,8 @@
 
 ## Daten
 
-| Titel                  | Einsatzdatum |
-|------------------------|--------------|
-| `<YY>-<DDNN> - <Name>` | `DD.MM.YYYY` |
-| 25-0622 - Rütihof spät | 06.12.2025   |
-| 26-0701 - Bülach Nord  | 07.12.2026   |
+- Titel: `<YY>-<DDNN> - <Name>`
+- Einsatzdatum: `DD.MM.YYYY`
 
 ## Touren
 
@@ -22,13 +19,13 @@
 | 01     | Bülach Nord                                                        | Bülach (Soli, Bergli)                                                                                                                                        |
 | 02     | Bülach Ost                                                         | Bülach (Schleufenberg, Frohalden)                                                                                                                            |
 | 03     | Bülach West                                                        | Bülach (Städtli, Kasernenstr., Hinterbirch)                                                                                                                  |
-| 04     | Höri, Hochfelden & Neerach                                         | Höri, Hochfelden, Neerach* (inkl. Riedt)<br>\* nur an Tagen mit 04 Tour (max. 3 Tage), ohne erster Zeitslot                                                  |
+| 04     | Höri, Hochfelden & Neerach                                         | Höri, Hochfelden, Neerach\* (inkl. Riedt)<br>\* nur an Tagen mit 04 Tour (max. 3 Tage), ohne erster Zeitslot                                                  |
 | 05     | Bachenbülach                                                       | Bachenbülach, **Alt.** für Winkel (zweite Hälfte?)                                                                                                           |
-| 06     | Winkel, Lufingen & Oberembrach                                     | Winkel (inkl. Rüti, Seeb), Lufingen* (inkl. Augwil), Oberembrach*<br>\* nur an Tagen mit 06 Tour (max. 2 Tage), nur letzter Zeitslot                         |
+| 06     | Winkel, Lufingen & Oberembrach                                     | Winkel (inkl. Rüti, Seeb), Lufingen\* (inkl. Augwil), Oberembrach\*<br>\* nur an Tagen mit 06 Tour (max. 2 Tage), nur letzter Zeitslot                         |
 | ~~07~~ | ~~Wehntal~~                                                        | ~~Rümlang, Oberglatt, Niederhasli, Dielsdorf, gesamtes Wehntal~~                                                                                             |
-| 08     | Glattfelden, Stadel & Weiach                                       | Glattfelden (inkl. Siedlungen), Stadel b. N.* (inkl. Raat, Schüpfheim, Windlach), Weiach*<br>\* nur an Tagen mit 08 Tour (max. 3 Tage), ohne erster Zeitslot |
-| 09     | Eglisau & Rafzerfeld                                               | Eglisau, Hüntwangen*, Wasterkingen*, Wil*, Rafz*<br>\* nur an Tagen mit 09 Tour (max. 3 Tage), ohne erster Zeitslot                                          |
-| 10     | Embrach, Rorbas & Freienstein-Teufen                               | Embrach, Rorbas*, Freienstein-Teufen*<br>\* nur an Tagen mit 10 Tour (max. 3 Tage), ohne erster Zeitslot                                                     |
+| 08     | Glattfelden, Stadel & Weiach                                       | Glattfelden (inkl. Siedlungen), Stadel b. N.\* (inkl. Raat, Schüpfheim, Windlach), Weiach\*<br>\* nur an Tagen mit 08 Tour (max. 3 Tage), ohne erster Zeitslot |
+| 09     | Eglisau & Rafzerfeld                                               | Eglisau, Hüntwangen\*, Wasterkingen\*, Wil\*, Rafz\*<br>\* nur an Tagen mit 09 Tour (max. 3 Tage), ohne erster Zeitslot                                          |
+| 10     | Embrach, Rorbas & Freienstein-Teufen                               | Embrach, Rorbas\*, Freienstein-Teufen\*<br>\* nur an Tagen mit 10 Tour (max. 3 Tage), ohne erster Zeitslot                                                     |
 |        |                                                                    |                                                                                                                                                              |
 | 31     | 01 Bülach Nord<br>02 Bülach Ost                                    | s.o.                                                                                                                                                         |
 | 32     | 05 Bachenbülach<br>06 Winkel, Lufingen & Oberembrach               | s.o.                                                                                                                                                         |
