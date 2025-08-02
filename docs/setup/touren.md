@@ -38,12 +38,12 @@
 
 ## Zeiten
 
-| Tour            | Tage        | Zeit                                            | Kapazität*  |
-|-----------------|-------------|-------------------------------------------------|-------------|
-| Familienbesuche | Mo - Fr     | 18:00 - 19:00<br>19:20 - 20:20                  | 3<br>3      |
-| Familienbesuche | Sa - So     | 16:40 - 17:40<br>18:00 - 19:00<br>19:20 - 20:20 | 3<br>3<br>3 |
-| Rütihof früh    | Sa &amp; So | 16:00 - 18:00                                   | 6           |
-| Rütihof spät    | Sa &amp; So | 18:20 - 20:20                                   | 6           |
+| Tour            | Tage    | Zeit                                            | Kapazität*  |
+|-----------------|---------|-------------------------------------------------|-------------|
+| Familienbesuche | Mo - Fr | 18:00 - 19:00<br>19:20 - 20:20                  | 3<br>3      |
+| Familienbesuche | Sa - So | 16:40 - 17:40<br>18:00 - 19:00<br>19:20 - 20:20 | 3<br>3<br>3 |
+| Rütihof früh    | Sa & So | 16:00 - 18:00                                   | 6           |
+| Rütihof spät    | Sa & So | 18:20 - 20:20                                   | 6           |
 
 \* Kapazität Bülach höher wenn alle 3 Touren (01, 02, 03)
 
