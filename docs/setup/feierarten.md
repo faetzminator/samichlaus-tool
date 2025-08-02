@@ -1,4 +1,4 @@
-# Einrichtung Anbieter
+# Einrichtung Feierarten
 
 ## Neu erfassen
 
@@ -6,6 +6,39 @@
 2. Feierarten &rarr; Feierart hinzufügen
 3. Fülle Formular aus - s.u.
 4. \[Veröffentlichen\]
+
+## Feierarten
+
+| Titel                                                                  | Anbieter                            |
+|------------------------------------------------------------------------|-------------------------------------|
+| Familienfeier bis 4 Kinder im Rütihof                                  | Aussenstandorte                     |
+| Familienfeier ab 5 Kinder im Rütihof                                   | Aussenstandorte                     |
+|                                                                        |                                     |
+| Familienfeier bis 4 Kinder in Bülach                                   | Samichlaus Bülach                   |
+| Familienfeier ab 5 Kinder in Bülach                                    | Samichlaus Bülach                   |
+|                                                                        |                                     |
+| Familienfeier bis 4 Kinder in Höri & Hochfelden                        | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden |
+| Familienfeier bis 4 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden |
+| Familienfeier bis 4 Kinder in Winkel                                   | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Winkel                                    | Samichlaus in umliegenden Gemeinden |
+| Familienfeier bis 4 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden |
+| Familienfeier bis 4 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Eglisau                                   | Samichlaus in umliegenden Gemeinden |
+| Familienfeier bis 4 Kinder in Embrach                                  | Samichlaus in umliegenden Gemeinden |
+| Familienfeier ab 5 Kinder in Embrach                                   | Samichlaus in umliegenden Gemeinden |
+|                                                                        |                                     |
+| Familienfeier bis 4 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden       |
+| Familienfeier ab 5 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden       |
+| Familienfeier bis 4 Kinder in Lufingen & Oberembrach                   | Samichlaus in Aussengemeinden       |
+| Familienfeier ab 5 Kinder in Lufingen & Oberembrach                    | Samichlaus in Aussengemeinden       |
+| Familienfeier bis 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden       |
+| Familienfeier ab 5 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden       |
+| Familienfeier bis 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden       |
+| Familienfeier ab 5 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz      | Samichlaus in Aussengemeinden       |
+| Familienfeier ab 5 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden       |
 
 ## Daten
 
@@ -68,6 +101,8 @@ Text gerne in zwei Spalten:
 > Traditionell bereiten die Kinder ein Gedicht, Lied oder Musikstück vor, das sie im Anschluss an die Ausführungen vortragen.
 >
 > Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereits bestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
+>
+> Bei Familienbesuchen **ab 5 Kindern verrechnen wir** Fr. 100.-, ab 11 Kindern Fr. 150.- und ab 21 Kindern Fr. 200.-.
 
 #### Einstellungen
 
