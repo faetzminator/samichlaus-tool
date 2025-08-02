@@ -7,13 +7,14 @@
 3. Fülle Formular aus - s.u.
 4. \[Veröffentlichen\]
 
-## Gruppierungen
+## Anbieter
 
-- Samichlaus Bülach
-- Samichlaus Höri & Hochfelden
-- Samichlaus Bachenbülach, Winkel & Lufingen
-- Samichlaus Embrach, Glattf. **TBD**
+Wir erfassen die Anbieter so, dass möglichst viele Einstellungen in den Feierarten übernommen werden können.
+
 - Aussenstandorte
+- Samichlaus Bülach
+- Samichlaus in umliegenden Gemeinden
+- Samichlaus in Aussengemeinden
 
 ## Daten
 
@@ -27,12 +28,19 @@ Text
 >
 > Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf der «Gwunderliste» notiert.
 >
-> Aktuell können in unserem neuen Tool ausschliesslich Termine für Familienfeiern gebucht werden. Für alle anderen Feierarten wenden Sie sich bitte weiterhin via Mail an unser Chlausbüro.
+> Aktuell können in unserem neuen Buchungssystem ausschliesslich Termine für Familienfeiern gebucht werden. Für alle anderen Feierarten wenden Sie sich bitte weiterhin via Mail an unser Präsidium (info@samichlaus-buelach.ch).
 
 #### Einstellungen
 
 - [x] Inherit Service Price
 - [ ] Benutzerdefinierten Zeitplan verwenden
+
+#### Aussengemeinden
+
+- [x] Benutzerdefinierten Zeitplan verwenden
+- Arbeitstage
+  - `<Von>` - `<Bis>` gemäss maximalen Daten der Aussengemeinden
+- Andere Daten gemäss den [Standards](./crocoblock.md)
 
 ### Aussenstandorte
 
