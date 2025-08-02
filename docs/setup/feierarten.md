@@ -9,37 +9,37 @@
 
 ## Feierarten
 
-| Short    | Titel                                                                  | Anbieter                                    |
-|----------|------------------------------------------------------------------------|---------------------------------------------|
-| `RHOF20` | Familienfeier bis 4 Kinder im Rütihof                                  | Aussenstandorte                             |
-| `RHOF40` | Familienfeier ab 5 Kinder im Rütihof                                   | Aussenstandorte                             |
-|          |                                                                        |                                                 |
-| `BUEL20` | Familienfeier bis 4 Kinder in Bülach                                   | Samichlaus Bülach                           |
-| `BUEL40` | Familienfeier ab 5 Kinder in Bülach                                    | Samichlaus Bülach                           |
-|          |                                                                        |                                                 |
-| `HOHO20` | Familienfeier bis 4 Kinder in Höri & Hochfelden                        | Samichlaus in umliegenden Gemeinden         |
-| `HOHO40` | Familienfeier ab 5 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden         |
-| `BABU20` | Familienfeier bis 4 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden             |
-| `BABU40` | Familienfeier ab 5 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden                |
-| `WNKL20` | Familienfeier bis 4 Kinder in Winkel                                   | Samichlaus in umliegenden Gemeinden             |
-| `WNKL40` | Familienfeier ab 5 Kinder in Winkel                                    | Samichlaus in umliegenden Gemeinden             |
-| `GLTF20` | Familienfeier bis 4 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden             |
-| `GLTF40` | Familienfeier ab 5 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden             |
-| `EGLI20` | Familienfeier bis 4 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden             |
-| `EGLI40` | Familienfeier ab 5 Kinder in Eglisau                                   | Samichlaus in umliegenden Gemeinden             |
-| `EMBR20` | Familienfeier bis 4 Kinder in Embrach                                  | Samichlaus in umliegenden Gemeinden             |
-| `EMBR40` | Familienfeier ab 5 Kinder in Embrach                                   | Samichlaus in umliegenden Gemeinden             |
-|          |                                                                        |                                                 |
-| `NEER20` | Familienfeier bis 4 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden                   |
-| `NEER40` | Familienfeier ab 5 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden                   |
-| `LFOE20` | Familienfeier bis 4 Kinder in Lufingen & Oberembrach                   | Samichlaus in Aussengemeinden                   |
-| `LFOE40` | Familienfeier ab 5 Kinder in Lufingen & Oberembrach                    | Samichlaus in Aussengemeinden                         |
-| `STAD20` | Familienfeier bis 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden                        |
-| `STAD40` | Familienfeier ab 5 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden                                           |
-| `RFZF20` | Familienfeier bis 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden                                          |
-| `RFZF40` | Familienfeier ab 5 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz      | Samichlaus in Aussengemeinden                                          |
-| `RORB20` | Familienfeier bis 4 Kinder in Rorbas & Freienstein-Teufen              | Samichlaus in Aussengemeinden                                          |
-| `RORB40` | Familienfeier ab 5 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden                                          |
+| Short    | Titel                                                                  | Anbieter                            |
+|----------|------------------------------------------------------------------------|-------------------------------------|
+| `RHOF20` | Familienfeier bis 4 Kinder im Rütihof                                  | Aussenstandorte                     |
+| `RHOF40` | Familienfeier ab 5 Kinder im Rütihof                                   | Aussenstandorte                     |
+|          |                                                                        |                                     |
+| `BUEL20` | Familienfeier bis 4 Kinder in Bülach                                   | Samichlaus Bülach                   |
+| `BUEL40` | Familienfeier ab 5 Kinder in Bülach                                    | Samichlaus Bülach                   |
+|          |                                                                        |                                     |
+| `HOHO20` | Familienfeier bis 4 Kinder in Höri & Hochfelden                        | Samichlaus in umliegenden Gemeinden |
+| `HOHO40` | Familienfeier ab 5 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden |
+| `BABU20` | Familienfeier bis 4 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden |
+| `BABU40` | Familienfeier ab 5 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden |
+| `WNKL20` | Familienfeier bis 4 Kinder in Winkel                                   | Samichlaus in umliegenden Gemeinden |
+| `WNKL40` | Familienfeier ab 5 Kinder in Winkel                                    | Samichlaus in umliegenden Gemeinden |
+| `GLTF20` | Familienfeier bis 4 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden |
+| `GLTF40` | Familienfeier ab 5 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden |
+| `EGLI20` | Familienfeier bis 4 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden |
+| `EGLI40` | Familienfeier ab 5 Kinder in Eglisau                                   | Samichlaus in umliegenden Gemeinden |
+| `EMBR20` | Familienfeier bis 4 Kinder in Embrach                                  | Samichlaus in umliegenden Gemeinden |
+| `EMBR40` | Familienfeier ab 5 Kinder in Embrach                                   | Samichlaus in umliegenden Gemeinden |
+|          |                                                                        |                                     |
+| `NEER20` | Familienfeier bis 4 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden       |
+| `NEER40` | Familienfeier ab 5 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden       |
+| `LFOE20` | Familienfeier bis 4 Kinder in Lufingen & Oberembrach                   | Samichlaus in Aussengemeinden       |
+| `LFOE40` | Familienfeier ab 5 Kinder in Lufingen & Oberembrach                    | Samichlaus in Aussengemeinden       |
+| `STAD20` | Familienfeier bis 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden       |
+| `STAD40` | Familienfeier ab 5 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden       |
+| `RFZF20` | Familienfeier bis 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden       |
+| `RFZF40` | Familienfeier ab 5 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz      | Samichlaus in Aussengemeinden       |
+| `RORB20` | Familienfeier bis 4 Kinder in Rorbas & Freienstein-Teufen              | Samichlaus in Aussengemeinden       |
+| `RORB40` | Familienfeier ab 5 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden       |
 
 ## Daten
 
@@ -115,7 +115,7 @@ Beschreibung
 > - Samichlaus und Schmutzli wollen den Kindern ein Feedback über ihr Verhalten geben. Aus diesem Grund ist der sogenannte «Steckbrief» zentral. Lob ist allerdings wichtiger als Kritik! Nehmen Sie sich deshalb genügend Zeit zum Ausfüllen. Bitte schreiben Sie in lesbarer Schrift und notieren Sie nicht mehr als drei gute und zwei weniger gute Punkte.
 > - Bei einem Familienbesuch sollen alle auf ihre Kosten kommen: die Kinder, die Eltern und Grosseltern, Gotte und Götti und Freunde der Familie. Samichlaus und Schmutzli geben den Kindern eine Rückmeldung zu ihrem Verhalten. Sie können aber niemals die tägliche Erziehungsarbeit ersetzen. Setzen Sie Samichlaus und Schmutzli deshalb bitte nie als Drohmittel ein.
 
-- Short:  *siehe Tabelle oben*
+- Short: *siehe Tabelle oben*
 - Dauer: `00:40`
 - Preis Label: `Preis:`
 - [x] Preis ab
@@ -157,7 +157,7 @@ Beschreibung
 > - Samichlaus und Schmutzli wollen den Kindern ein Feedback über ihr Verhalten geben. Aus diesem Grund ist der sogenannte «Steckbrief» zentral. Lob ist allerdings wichtiger als Kritik! Nehmen Sie sich deshalb genügend Zeit zum Ausfüllen. Bitte schreiben Sie in lesbarer Schrift und notieren Sie nicht mehr als drei gute und zwei weniger gute Punkte.
 > - Bei einem Familienbesuch sollen alle auf ihre Kosten kommen: die Kinder, die Eltern und Grosseltern, Gotte und Götti und Freunde der Familie. Samichlaus und Schmutzli geben den Kindern eine Rückmeldung zu ihrem Verhalten. Sie können aber niemals die tägliche Erziehungsarbeit ersetzen. Setzen Sie Samichlaus und Schmutzli deshalb bitte nie als Drohmittel ein.
 
-- Short:  *siehe Tabelle oben*
+- Short: *siehe Tabelle oben*
 - Dauer: `00:20` / `00:40`*
 - Preis Label: `Preis pro Kind:`
 - [x] Preis pro Kind

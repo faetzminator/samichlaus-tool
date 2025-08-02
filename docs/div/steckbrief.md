@@ -2,10 +2,12 @@
 
 ## Workflow
 
-Kunden sollen den Steckbrief von unserer Homepage herunterladen und **nach** Buchungsbestätigung ausfüllen (Buchungs-Nr, Tour etc.).
+Kunden sollen den Steckbrief von unserer Homepage herunterladen und **nach** Buchungsbestätigung ausfüllen (Buchungsnummer, Tour etc.).
 
 Der Steckbrief soll zurück via Mail an die [Zentrale](mailto:zentrale@samichlaus-buelach.ch).
 
 ## FAQ
 
-- PDF Editor als Alternative zu Adobe Acrobat: [masterpdfeditor @ AUR](https://aur.archlinux.org/packages/masterpdfeditor)
+- Master PDF Editor als Alternative zu Adobe Acrobat: [masterpdfeditor @ AUR](https://aur.archlinux.org/packages/masterpdfeditor)
+  - aktuell keine Option, da Zeichenbeschränkung in Textfeldern max. 99 konfiguriert werden kann
+  - zudem Bug bei Tabbing gefunden (*Tab order by row*)
