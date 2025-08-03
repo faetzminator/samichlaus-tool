@@ -21,8 +21,8 @@
 | `HOHO40` | Familienfeier ab 5 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden |
 | `BABU20` | Familienfeier bis 4 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden |
 | `BABU40` | Familienfeier ab 5 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden |
-| `WNKL20` | Familienfeier bis 4 Kinder in Winkel                                   | Samichlaus in umliegenden Gemeinden |
-| `WNKL40` | Familienfeier ab 5 Kinder in Winkel                                    | Samichlaus in umliegenden Gemeinden |
+| `WNKL20` | Familienfeier bis 4 Kinder in Winkel/Rüti                              | Samichlaus in umliegenden Gemeinden |
+| `WNKL40` | Familienfeier ab 5 Kinder in Winkel/Rüti                               | Samichlaus in umliegenden Gemeinden |
 | `GLTF20` | Familienfeier bis 4 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden |
 | `GLTF40` | Familienfeier ab 5 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden |
 | `EGLI20` | Familienfeier bis 4 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden |
