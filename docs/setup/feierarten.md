@@ -174,8 +174,12 @@ Rechts
 
 ## Benutzerdefinierter Zeitplan
 
-Falls die Arbeitsstunden oder die Arbeitstage einer Feierart (z.B. gewisse Aussengemeinden) vom jeweiligen [Anbieter](./anbieter.md)
-(oder den [Standards](./crocoblock.md)) abweichen, muss ein benutzerdefinierter Zeitplan verwendet werden.
+Falls die Arbeitsstunden oder die Arbeitstage einer Feierart (z.B. gewisse Aussengemeinden) von den [Standards](./crocoblock.md)
+(oder vom jeweiligen [Anbieter](./anbieter.md)) abweichen, muss ein benutzerdefinierter Zeitplan verwendet werden.
+
+Wenn eine Feierart eine Einschränkung zu Arbeitsstunden oder Arbeitstage definieren muss, darf der darüberliegende
+Anbieter **keinen** benutzerdefinierten Zeitplan verwenden. Es ist **nicht möglich**, die angebotenen Arbeitsstunden
+oder Arbeitstage (auch mit arbeitsfreien Tagen) weiter einzuschränken (Stand 2025).
 
 **Alle Einstellungen** müssen entsprechend überschrieben werden. Leer erfasste Arbeitstage oder Arbeitsstunden werden
 beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.

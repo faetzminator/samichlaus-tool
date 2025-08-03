@@ -35,12 +35,8 @@ Text
 - [x] Inherit Service Price
 - [ ] Benutzerdefinierten Zeitplan verwenden
 
-#### Aussengemeinden
-
-- [x] Benutzerdefinierten Zeitplan verwenden
-- Arbeitstage
-  - `<Von>` - `<Bis>` gemäss maximalen Daten der Aussengemeinden
-- Andere Daten gemäss den [Standards](./crocoblock.md)
+Da unsere Touren meist unterschiedliche Zeitpläne definieren (z.B. nach Ortschaft), können wir auf Stufe Anbieter
+**keine** benutzerdefinierten Zeitpläne verwenden. S.u.
 
 ### Aussenstandorte
 
@@ -68,6 +64,11 @@ Text
 
 Falls die Arbeitsstunden oder die Arbeitstage eines Anbieters (z.B. Aussengemeinden, Aussenstandorte) von den
 [Standards](./crocoblock.md) abweichen, muss ein benutzerdefinierter Zeitplan verwendet werden.
+
+Der benutzerdefinierte Zeitplan kann nur verwendet werden, wenn **keine** darunterliegenden Feierarten weitere
+Einschränkungen benötigen. Es ist **nicht möglich**, die angebotenen Arbeitsstunden oder Arbeitstage (auch mit
+arbeitsfreien Tagen) weiter einzuschränken (Stand 2025). Dementsprechend ungeeignet für unterschiedliche Touren in
+Aussengemeinden.
 
 **Alle Einstellungen** müssen entsprechend überschrieben werden. Leer erfasste Arbeitstage oder Arbeitsstunden werden
 beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.
