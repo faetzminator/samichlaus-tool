@@ -143,7 +143,7 @@ Text gerne in zwei Spalten:
 >
 > Alternativ zu den Hausbesuchen empfängt Samichlaus und Schmutzli wahlweise Familien an unserem Aussenstandort.
 >
-> An **ausgewählten Daten** im Dezember feiern Samichlaus und Schmutzli zusammen mit Kindern und Ihren Familien im Waldhüsli.
+> An **ausgewählten Daten** im Dezember feiern Samichlaus und Schmutzli zusammen mit Kindern und Ihren Familien im Rütihof.
 >
 > Ermöglichen Sie Ihren Kindern, Samichlaus und Schmutzli in der Natur anzutreffen, nach einem kurzen Spaziergang durch den nächtlichen Wald.
 >
