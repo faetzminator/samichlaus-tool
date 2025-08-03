@@ -78,7 +78,7 @@ Beschreibung
 - Kapazität: `3` (für 1h)
   - Bülach: `8` (für 1h) bei Touren 01, 02, 03
 - [x] Price per: Slot
-- Preis pro Slot: `0` - **niemals überschreiben!**
+- Preis pro Slot: `1` (s.u.)
 - [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 
@@ -188,6 +188,15 @@ beim *benutzerdefinierten Zeitplan* **nicht** vom Standard übernommen.
 - Dauer: *gemäss Feierart*
 - Arbeitstage: *gemäss Feierart*
 - Arbeitsstunden: *gemäss Feierart*
+
+## Feierarten auf Spendenbasis
+
+Die entsprechenden Plugins können nicht mit einem Preis von 0.- arbeiten (da nicht dafür gemacht).
+Dies wurde umgangen, indem wir die Einstellung *Preis individuell* erhalten haben.
+Das Tool zeigt während der Buchung dann einen Preis von 0.-.
+
+Der Preis einer Feierart kann in den Einstellungen auf 0.- geändert werden, jedoch zeigt die URL auf die Buchungsseiten
+weiterhin den vorgängig gespeicherten Preis an. Damit dies Konsistenz ist, setzen wir immer einen Preis von 1.-.
 
 ## FAQ
 
