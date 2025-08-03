@@ -53,7 +53,7 @@ H3:
 
 Text gerne in zwei Spalten:
 
-> Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf der «Notizen für den Samichlaus» notiert.
+> Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf dem «Steckbrief» notiert.
 >
 > Eine Familienfeier beginnt mit einer Geschichte: Samichlaus erzählt zum Beispiel, was er und Schmutzli im Waldhüsli erleben. Danach schlägt Schmutzli das Buch auf und berichtet Samichlaus, was er das Jahr hindurch «gesehen» hat.
 >
@@ -95,7 +95,7 @@ H3:
 
 Text gerne in zwei Spalten:
 
-> Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf der «Notizen für den Samichlaus» notiert.
+> Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf dem «Steckbrief» notiert.
 >
 > Eine Familienfeier beginnt mit einer Geschichte: Samichlaus erzählt zum Beispiel, was er und Schmutzli im Waldhüsli erleben. Danach schlägt Schmutzli das Buch auf und berichtet Samichlaus, was er das Jahr hindurch «gesehen» hat.
 >
