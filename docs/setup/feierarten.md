@@ -59,7 +59,7 @@ Text gerne in zwei Spalten:
 >
 > Traditionell bereiten die Kinder ein Gedicht, Lied oder Musikstück vor, das sie im Anschluss an die Ausführungen vortragen.
 >
-> Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereits bestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
+> Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereitgestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
 
 #### Einstellungen
 
@@ -101,7 +101,7 @@ Text gerne in zwei Spalten:
 >
 > Traditionell bereiten die Kinder ein Gedicht, Lied oder Musikstück vor, das sie im Anschluss an die Ausführungen vortragen.
 >
-> Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereits bestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
+> Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereitgestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
 >
 > Bei Familienbesuchen **ab 5 Kindern verrechnen wir** Fr. 100.-, ab 11 Kindern Fr. 150.- und ab 21 Kindern Fr. 200.-.
 
