@@ -32,8 +32,8 @@
 |          |                                                                        |                                     |
 | `NEER20` | Familienfeier bis 4 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden       |
 | `NEER40` | Familienfeier ab 5 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden       |
-| `LFOE20` | Familienfeier bis 4 Kinder in Lufingen & Oberembrach                   | Samichlaus in Aussengemeinden       |
-| `LFOE40` | Familienfeier ab 5 Kinder in Lufingen & Oberembrach                    | Samichlaus in Aussengemeinden       |
+| `LFOE20` | Familienfeier bis 4 Kinder in Lufingen/Augwil & Oberembrach            | Samichlaus in Aussengemeinden       |
+| `LFOE40` | Familienfeier ab 5 Kinder in Lufingen/Augwil & Oberembrach             | Samichlaus in Aussengemeinden       |
 | `STAD20` | Familienfeier bis 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden       |
 | `STAD40` | Familienfeier ab 5 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden       |
 | `RFZF20` | Familienfeier bis 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden       |
