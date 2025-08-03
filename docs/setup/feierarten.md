@@ -139,6 +139,8 @@ H3:
 
 Text gerne in zwei Spalten:
 
+> Bei einer Familienfeier zaubern Samichlaus und Schmutzli vorweihnachtliche Stimmung ins Wohnzimmer. Schmutzli «beobachtet» das Jahr hindurch die Kinder. Er notiert, was sie sehr gut machen und was noch verbesserungswürdig ist. Diese Rückmeldungen werden von den Eltern aufgeschrieben und für Samichlaus und Schmutzli auf dem «Steckbrief» notiert.
+>
 > Alternativ zu den Hausbesuchen empfängt Samichlaus und Schmutzli wahlweise Familien an unserem Aussenstandort.
 >
 > An **ausgewählten Daten** im Dezember feiern Samichlaus und Schmutzli zusammen mit Kindern und Ihren Familien im Waldhüsli.
