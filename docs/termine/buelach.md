@@ -20,4 +20,25 @@ Das aktuelle Hosting der Dokumentation (GitHub Pages) erlaubt kein Einbetten.
 
 ### Strassen
 
-**tbd**
+Folgend eine Auflistung der Strassen nach Gebieten.
+
+|       | 01 Bülach Nord          | 02 Bülach Ost            | 03 Bülach West    |
+|-------|-------------------------|--------------------------|-------------------|
+| **A** |                         | Alte Winterthurerstrasse | Ackerstrasse      |
+|       |                         | Am Fasnachtsbuck         | Adamengässchen    |
+|       |                         |                          | Albrechtstrasse   |
+|       |                         |                          | Allmendstrasse    |
+|       |                         |                          |                   |
+| **B** | Berglistrasse **ab 50** | Bergkapellweg            | Badenerstrasse    |
+|       | Bergweg                 | Berglistrasse **bis 50** | Bahnhofring       |
+|       | Buchenweg               | Birkenweg                | Bahnhofstrasse    |
+|       |                         | Bruedersteig             | Bannhaldenstrasse |
+|       |                         | Bruederstrasse           | Binzeggerweg      |
+|       |                         |                          | Blumenweg         |
+|       |                         |                          | Böswisliweg       |
+|       |                         |                          | Brunngasse        |
+|       |                         |                          |                   |
+| **C** |                         |                          |                   |
+
+Die Strassen sind von swisstopo [Amtliches Verzeichnis der Strassen](https://www.swisstopo.admin.ch/de/amtliches-verzeichnis-der-strassen),
+Stand Sommer 2025.
