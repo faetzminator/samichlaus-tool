@@ -87,6 +87,77 @@ Folgend eine Auflistung der Strassen nach Gebieten.
 | **J** |                         |                          | Jean-Kern-Weg        |
 |       |                         |                          | Johanna-Spyri-Weg    |
 |       |                         |                          | John-Brunner-Strasse |
+|       |                         |                          |                      |
+| **K** | Kalkgasse               | Kantonsschulstrasse      | Kaffeestrasse        |
+|       | Kernstrasse             |                          | Kappelergasse        |
+|       |                         |                          | Kasernenstrasse      |
+|       |                         |                          | Konradweg            |
+|       |                         |                          | Kopfgasse            |
+|       |                         |                          | Kreuzareal           |
+|       |                         |                          | Kreuzstrasse         |
+|       |                         |                          |                      |
+| **L** | Lärchenstrasse          |                          | Lägernweg            |
+|       |                         |                          | Leeweg               |
+|       |                         |                          | Lindenhofstrasse     |
+|       |                         |                          |                      |
+| **M** | Malzacherweg            | Mettmenrietstrasse       | Marktgasse           |
+|       |                         | Mittlere Gstücktstrasse  | Maronigässli         |
+|       |                         | Moritz-Meyer-Weg         | Müligässli           |
+|       |                         |                          | Müliweg              |
+|       |                         |                          | Murgasse             |
+|       |                         |                          | Müsegg               |
+|       |                         |                          | Müseggässli          |
+|       |                         |                          |                      |
+| **N** | Neugut                  |                          | Neukirchhofweg       |
+|       | Nussbaumerstrasse       |                          | Niederflachs         |
+|       |                         |                          | Nordstrasse          |
+|       |                         |                          |                      |
+| **O** |                         | Obere Weid               | Obergasse            |
+|       |                         |                          |                      |
+| **P** | Piazza Santeramo        |                          | Pfarrgässli          |
+|       |                         |                          | Poststrasse          |
+|       |                         |                          |                      |
+| **Q** | Quarzstrasse            |                          |                      |
+|       |                         |                          |                      |
+| **R** | Rebweg                  | Rebbergstrasse           | Rathausgasse         |
+|       |                         |                          | Reitergasse          |
+|       |                         |                          | Riedweg              |
+|       |                         |                          | Robert-Schwyzer-Weg  |
+|       |                         |                          | Rosenweg             |
+|       |                         |                          | Rössligasse          |
+|       |                         |                          |                      |
+| **S** | Sandstrasse             | Schleufenbergsteig       | Schaffhauserstrasse  |
+|       | Schuemacherstrasse      | Schleufenbergstrasse     | Scheuchzerstrasse    |
+|       | Schülergartenweg        | Schleufenbergweg         | Schlosserstrasse     |
+|       | Schützenmattstrasse     | Schwerzgruebstrasse      | Schulhausstrasse     |
+|       | Sodagasse               | Sechtbachweg             | Schwimmbadstrasse    |
+|       | Solibodenstrasse        | Seemattstrasse           | Seemattgasse         |
+|       | Soligänterstrasse       | Sonneggweg               | Sonnenhof            |
+|       | Solistrasse             | Sonnmattstrasse          | Spinnereistrasse     |
+|       | Sonnenweg               | Spiessweg                | Spitalstrasse        |
+|       | Steinackerstrasse       | Stadtächer               | Steinmetzweg         |
+|       |                         |                          | Storchenwiese        |
+|       |                         |                          | Südstrasse           |
+|       |                         |                          | Südweg               |
+|       |                         |                          | Sulzerweg            |
+|       |                         |                          |                      |
+| **T** | Tannenstrasse           | Trottensteig             | Tiefengasse          |
+|       | Trafostrasse            | Trottenstrasse           |                      |
+|       |                         |                          |                      |
+| **U** | Unterweg                | Untere Gstücktstrasse    | Unterer Sonnenhof    |
+|       |                         | Untere Weid              | Untergasse           |
+|       |                         |                          |                      |
+| **V** |                         | Vögeliacher              |                      |
+|       |                         | Vogelsangstrasse         |                      |
+|       |                         |                          |                      |
+| **W** | Wislistrasse            | Wettiweg                 | Wisentalstrasse      |
+|       |                         | Wibergstrasse            | Wisentalweg          |
+|       |                         | Winterthurerstrasse      |                      |
+|       |                         | Winzerweg                |                      |
+|       |                         | Witenwisenstrasse        |                      |
+|       |                         |                          |                      |
+| **Z** |                         | Zur Säge                 | Ziegelhütte          |
+|       |                         | Zürichstrasse            |                      |
 
 Die Strassen sind von swisstopo [Amtliches Verzeichnis der Strassen](https://www.swisstopo.admin.ch/de/amtliches-verzeichnis-der-strassen),
 Stand Sommer 2025.
