@@ -13,7 +13,8 @@
   - Buchungstool noch geschlossen, Spezialbuchungen innerhalb Familienterminen
   - Buchungstool bereits geschlossen, verspäteter Termin
 - Eingabe Buchungen mit Benutzer zentrale@samichlaus-buelach.ch
-  - Vorgezogene Buchungen müssen offen sein, siehe [Setup - Samichlaus](../setup/samichlaus.md)
+  - Vorgezogene Buchungen müssen offen sein, siehe auch [Einrichtung / Einstellungen Samichlaus](../setup/samichlaus.md)
+  - Benutzer mit Recht sieht Button "Vorgezogen Termin buchen" statt "Termin buchen" auf Detailseite jeder Feierart
 
 ## Verwaltung im Tool
 

@@ -26,6 +26,12 @@ Admin Tourenliste verbergen für uns aktuell nicht relevant, ausgestellt lassen.
 
 Samichlaus Buchung deaktivieren gemäss aktueller Buchungsphase.
 
+Wenn Samichlaus Buchung deaktiviert:
+
+- Pop-up Text: mit nettem Text und korrekten Daten befüllen
+- [x] Vorgezogene Buchung aktivieren
+- Vorgezogene Start Datum: vor aktuellem Datum oder wie benötigt
+
 ## Aktion
 
 - Aktion Jahr: Datum vor Chlauseinzug oder weiteren Terminen setzen
