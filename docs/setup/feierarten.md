@@ -41,6 +41,9 @@
 | `RORB20` | Familienfeier bis 4 Kinder in Rorbas & Freienstein-Teufen              | Samichlaus in Aussengemeinden       |
 | `RORB40` | Familienfeier ab 5 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden       |
 
+Nach Eingabe der Feierarten das Erscheinungsbild auf der Buchungsseite überprüfen. Wo nötig mit unterschiedlichen
+Trennzeichen (z.B. Leerzeichen statt Schrägstrich) arbeiten.
+
 ## Daten
 
 ### Familienbesuch bis 4 Kinder
