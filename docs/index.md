@@ -16,6 +16,7 @@ Dokumentation des Samichlaus-Tool.
   - Bestätigungsmail: Reminder Steckbrief in Text hinzufügen
   - Mails von zentrale versenden, nicht info
 - Testen Änderungen JetTermine (Slots in Kalender; Status bereits gebucht; Bestätigungsmail(s); ...)
+- Worldsoft künden
 - Nach Go-live
   - WP Plugin: Mailster
   - Mailadresse Zentrale (und Tech) erstellen
@@ -29,6 +30,9 @@ Dokumentation des Samichlaus-Tool.
 - Div
   - Handy-Nr (Beni) in Touren-PDF (Header)? Wird mit Etiketten erledigt
   - WE ab 16:40 statt 17:00 i.O.? Alterszentrum Grampen etc. immer 6. Dez, kann WE sein
+    - Soligänter immer Mittwoch; Bergli individuell
+    - Grampen etc. (alle anderen) immer 6. - adde Doku
+    - Siehe Dropbox für Zeiten 2024
 
 ### Bugs & Features
 
