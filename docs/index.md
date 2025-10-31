@@ -15,13 +15,8 @@ Dokumentation des Samichlaus-Tool.
 - Nach Go-live
   - WP Plugin: Mailster
   - Mailboxen
-    - Mailboxen `zentrale@` und `termine@` erstellen
     - Generierte Mails
-      - Mails von `zentrale@` versenden (nicht `info@`)
-      - Mails an `termine@` senden (nicht `info@`)
-    - Mails an `info@` an Beni weiterleiten
-    - IMAP für `zentrale@` auf Handy einrichten
-    - Account für `zentrale@` für vorgezogene Buchungen einrichten
+      - Mails an `info@` unnötig?
 - Sonstiges
   - Doku: [MkDocs](https://www.mkdocs.org/) ausprobieren, vielleicht [mike](https://github.com/jimporter/mike)
 
@@ -38,3 +33,8 @@ Dokumentation des Samichlaus-Tool.
 - Feature: Anzahl Kinder & Erwachsene
   - Chlauschef-Tools ➔ Buchungsliste: Total sichtbar - trennen?
   - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
+- Bug: WP Admin - WooCommerce - löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen
+- Bug: Kunde erhält 3 gleiche Mails, wenn Termin storniert wird
+- Improvement: Validierung während Termineingabe
+  - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
+  - Felder mit Fehlern hervorheben?
