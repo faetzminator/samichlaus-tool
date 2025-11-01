@@ -33,6 +33,7 @@ Dokumentation des Samichlaus-Tool.
 - Feature: Anzahl Kinder & Erwachsene
   - Chlauschef-Tools ➔ Buchungsliste: Total sichtbar - trennen?
   - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
+- Bug: "Password setzen" Link in Mails für neue Benutzer (während Buchung) führt ins Nirvana
 - Bug: WP Admin - WooCommerce - löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen
 - Bug: Kunde erhält 3 gleiche Mails, wenn Termin storniert wird
 - Improvement: Validierung während Termineingabe
