@@ -39,3 +39,5 @@ Dokumentation des Samichlaus-Tool.
 - Improvement: Validierung während Termineingabe
   - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
   - Felder mit Fehlern hervorheben?
+- Bug: Testing mit Handy - Kunde hat nur einen Slot gesehen?
+- Feature: Alternativer Termin - gleiches Datum ermöglichen?
