@@ -30,14 +30,17 @@ Dokumentation des Samichlaus-Tool.
 
 ### Bugs & Features
 
+- Touren-PDF
+  - Feature: Subtitel auf PDF für zusätzliche Infos (Notfall-Nr)?
+  - Feature: Feld für Eingang Geld/Spenden pro Termin?
 - Feature: Anzahl Kinder & Erwachsene
   - Chlauschef-Tools ➔ Buchungsliste: Total sichtbar - trennen?
   - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
-- Bug: "Password setzen" Link in Mails für neue Benutzer (während Buchung) führt ins Nirvana
+- Feature: Alternativer Termin - gleiches Datum ermöglichen?
 - Bug: WP Admin - WooCommerce - löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen
-- Bug: Kunde erhält 3 gleiche Mails, wenn Termin storniert wird
+- Bug: Kunde erhält 3 gleiche Mails, wenn Termin storniert wird - Retest
 - Improvement: Validierung während Termineingabe
   - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
   - Felder mit Fehlern hervorheben?
 - Bug: Testing mit Handy - Kunde hat nur einen Slot gesehen?
-- Feature: Alternativer Termin - gleiches Datum ermöglichen?
+- Bug: Termine ab 5 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
