@@ -4,3 +4,4 @@
   - [WooCommerce](./verwaltung-woocommerce.md)
   - [JetAppointment](./verwaltung-jetappointment.md)
 - [Infos Bülach](./buelach.md)
+- [Mail-Templates](./mails.md)
