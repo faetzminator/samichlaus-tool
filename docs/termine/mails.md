@@ -32,7 +32,7 @@ Titel: Infos zur Samichlaus-Buchung im Rütihof
 
 ## Infos Familienfeiern ab 5 Kinder
 
-Titel: Infos zur Samichlaus-Buchung für Familienfeier ab 5 Kinder
+Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kinder
 
 > Grüezi Frau/Herr xxx
 >
