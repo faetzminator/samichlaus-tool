@@ -32,7 +32,7 @@ Titel: Infos zur Samichlaus-Buchung im Rütihof
 
 ## Infos Familienfeiern ab 5 Kinder
 
-Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kinder
+Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kindern
 
 > Grüezi Frau/Herr xxx
 >
@@ -40,19 +40,19 @@ Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kinder
 >
 > Ihren Termin haben wir definitiv eingeplant. Sie sollten inzwischen ein Bestätigungsmail unserer Buchungsplattform, inklusive der Daten für den Steckbrief (definitives Datum und Zeit sowie Tour-Nr.), erhalten haben.
 >
-> Für Familienfeiern ab 5 Kinder planen wir entsprechend mehr Zeit ein und haben, wie auf der Webseite ausgewiesen, die folgenden Fixpreise:
+> Für Familienfeiern ab 5 Kindern planen wir entsprechend mehr Zeit ein und haben, wie auf der Webseite ausgewiesen, die folgenden Fixpreise:
 > Für 5 bis 10 Kinder Fr. 100.-, für 11 bis 20 Kinder Fr. 150.- und ab 21 Kindern Fr. 200.-.
 >
-> Wir erhalten die Unkostenbeiträge für Familienfeiern meist in Form von Bargeld beim Verlassen der Feier.
+> Wir erhalten die Unkostenbeiträge für Familienfeiern meist bar beim Verlassen der Feier.
 > Falls Sie alternativ lieber via Bankeinzahlung oder TWINT bezahlen, finden Sie die QR-Codes und den Einzahlungsschein auf https://samichlaus-buelach.ch/bankverbindung/ .
-> Für den letzteren Fall bitte die Beiträge vorgängig mit Angabe des Termins (Name, Buchungsnummer, Tour-Nr.) begleichen.
+> Bei einer Onlinezahlung bitte die Beiträge vorgängig mit Angabe des Termins (Name, Buchungsnummer, Tour-Nr.) begleichen.
 >
 > Die Unkostenbeiträge werden zur Finanzierung des Chlaus-Einzuges am Bülacher Weihnachtsmarkt sowie für die Beschaffung und Reinigung der Kostüme und Perücken verwendet.
 >
 > Bitte laden Sie, falls noch nicht erledigt, den Steckbrief von der Webseite herunter und senden ihn ausgefüllt an die angegebene Mailadresse.
 >
 > Unsere Touren werden mit viel Erfahrung geplant. Trotzdem kann es vorkommen, dass die Teams zu früh oder spät dran sind.
-> Im Fall von grösseren Abweichungen kontaktiert das Eseli (unser Fahrer) die Kontaktperson unter der angegebenen Handynummer.
+> Bei grösseren Abweichungen kontaktiert das Eseli (unser Fahrer) die Kontaktperson unter der angegebenen Handynummer.
 >
 > Samichlaus freut sich auf viele strahlende Kinderaugen!
 >
