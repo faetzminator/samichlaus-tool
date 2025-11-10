@@ -44,3 +44,4 @@ Dokumentation des Samichlaus-Tool.
   - Felder mit Fehlern hervorheben?
 - Bug: Testing mit Handy - Kunde hat nur einen Slot gesehen?
 - Bug: Termine ab 5 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
+- Feature: Popup Werbung Neumitglieder (oder Status Buchungen etc.) auf Startseite
