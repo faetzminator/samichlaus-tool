@@ -14,6 +14,22 @@ Unleserlicher Steckbrief erhalten:
 
 ## Mail-Templates
 
+### Unvollständige Bestellung
+
+Titel: Samichlaus-Buchung - unvollständige Bestellung
+
+> Grüezi Frau/Herr xxx
+>
+> Wir haben im Buchungssystem eine unvollständige Buchung mit dieser Mailadresse gesehen.
+> Kann es sein, dass Sie den letzten Schritt der Buchung nicht abgeschlossen haben?
+> Da auf unserer Buchungsplattform mehrere Systeme zusammenarbeiten, muss die Buchung nach den fünf Schritten noch ein letztes Mal bestätigt werden.
+>
+> Bitte versuchen Sie es noch einmal mit der Bestellung.
+>
+> Liebe Grüsse, xxx
+>
+> Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
+
 ### Infos Aussenstandort Rütihof
 
 Titel: Infos zur Samichlaus-Buchung im Rütihof
