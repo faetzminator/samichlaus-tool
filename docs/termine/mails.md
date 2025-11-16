@@ -1,5 +1,17 @@
 # Mailversand
 
+## Mail-Snippets
+
+Wunschdatum nicht möglich:
+
+> Wir bemühen uns, die Kundentermine immer auf das Wunschdatum zu legen.
+> Der angezeigte Terminkalender im Buchungssystem kann die Realität nicht zu 100 % abbilden, da unsere Tourplanung von vielen Faktoren beeinflusst wird.
+
+Unleserlicher Steckbrief erhalten:
+
+> Es würde Schmutzli sehr schwerfallen, in halber Dunkelheit ein Foto eines handgeschriebenen Steckbriefes zu lesen.
+> Der Steckbrief kann digital ausgefüllt werden (PDF mit Formularfeldern). Dürften wir um ein ausgefülltes PDF bitten?
+
 ## Mail-Templates
 
 ### Infos Aussenstandort Rütihof
@@ -49,7 +61,10 @@ Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kindern
 >
 > Die Unkostenbeiträge werden zur Finanzierung des Chlaus-Einzuges am Bülacher Weihnachtsmarkt sowie für die Beschaffung und Reinigung der Kostüme und Perücken verwendet.
 >
-> Bitte laden Sie, falls noch nicht erledigt, den Steckbrief von der Webseite herunter und senden ihn ausgefüllt an die angegebene Mailadresse.
+> Falls nicht anders abgemacht, werden wir, wie bei kleineren Feiern, den Termin mit einem Steckbrief pro Kind durchführen.
+> Damit Sie die Reihenfolge der Kinder festlegen und die Vollständigkeit der Steckbriefe sicherstellen können, erwarten wir ein zusammengeführtes PDF.
+> Der Steckbrief kann von unserer Homepage heruntergeladen und digital ausgefüllt werden (PDF mit Formularfeldern).
+> Bei mehr als sechs Kindern entsprechend mehrere Dateien einreichen.
 >
 > Unsere Touren werden mit viel Erfahrung geplant. Trotzdem kann es vorkommen, dass die Teams zu früh oder spät dran sind.
 > Bei grösseren Abweichungen kontaktiert das Eseli (unser Fahrer) die Kontaktperson unter der angegebenen Handynummer.
