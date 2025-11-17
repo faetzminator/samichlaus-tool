@@ -30,6 +30,7 @@ Dokumentation des Samichlaus-Tool.
 - Touren-PDF
   - Feature: Subtitel auf PDF für zusätzliche Infos (Notfall-Nr)?
   - Feature: Feld für Eingang Geld/Spenden pro Termin?
+  - Feature: Feld für effektive Startzeit für Retro?
 - Feature: Anzahl Kinder & Erwachsene
   - Chlauschef-Tools ➔ Buchungsliste: Total sichtbar - trennen?
   - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
