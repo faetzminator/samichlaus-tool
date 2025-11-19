@@ -12,6 +12,19 @@ Unleserlicher Steckbrief erhalten:
 > Es würde Schmutzli sehr schwerfallen, in halber Dunkelheit ein Foto eines handgeschriebenen Steckbriefes zu lesen.
 > Der Steckbrief kann digital ausgefüllt werden (PDF mit Formularfeldern). Dürften wir um ein ausgefülltes PDF bitten?
 
+Termin noch nicht definitiv:
+
+> Ihr Termin ist provisorisch am x.x. ab xx:xx Uhr eingeplant.
+> Auf der betreffenden Tour haben wir noch Lücken und hoffen auf weitere Buchungen in den nächsten Tagen.
+> Deshalb lassen wir die Termine noch ein paar Tage unbestätigt. Bis spätestens Ende November werden wir alle Anfragen definitiv bestätigt haben.
+>
+> Wir möchten Kunden keine finalen Bestätigungen senden und ein paar Tage später merken, dass wir zwei, drei Termine tauschen müssen.
+> Durch dieses Vorgehen erreichen wir optimale Fahrzeiten und gut ausgelastete Touren. Zudem müssen wir unsere Kunden so nicht unnötig belästigen.
+>
+> Sie können davon ausgehen, dass der Termin innerhalb des gewünschten Zeitfensters stattfinden wird, möglicherweise 30 Min. vor oder nach obiger Angabe.
+> Besten Dank fürs Verständnis.
+
+
 ## Mail-Templates
 
 ### Unvollständige Bestellung
