@@ -47,3 +47,7 @@ Dokumentation des Samichlaus-Tool.
 - Bug: Testing mit Handy - Kunde hat nur einen Slot gesehen?
 - Bug: Termine ab 5 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
 - Bug: PDF-Download Tourenplan funktioniert nicht auf allen Clients (falscher Content-Type?) - gemeldet
+
+- Steckbrief
+  - Bug: Mailadresse bei Button falsch
+  - Feature: Kommentar digital ausfüllen / Adobe Reader o.ä.

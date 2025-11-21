@@ -10,7 +10,10 @@ Wunschdatum nicht möglich:
 Unleserlicher Steckbrief erhalten:
 
 > Es würde Schmutzli sehr schwerfallen, in halber Dunkelheit ein Foto eines handgeschriebenen Steckbriefes zu lesen.
-> Der Steckbrief kann digital ausgefüllt werden (PDF mit Formularfeldern). Dürften wir um ein ausgefülltes PDF bitten?
+> Der Steckbrief kann digital ausgefüllt werden (PDF mit Formularfeldern).
+> Dürften wir um ein ausgefülltes PDF oder zumindest um einen qualitativ hochwertigen Scan bitten?
+>
+> Besten Dank fürs Verständnis.
 
 Termin noch nicht definitiv:
 
