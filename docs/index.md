@@ -42,6 +42,7 @@ Dokumentation des Samichlaus-Tool.
 - Improvement: Validierung während Termineingabe
   - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
   - Felder mit Fehlern hervorheben?
+- SEO: gemäss Mail Beni / Zentrale / Peter
 - Bug: WP Admin - WooCommerce - löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen - gemeldet
 - Bug: Kunde erhält bis zu 3 gleiche Mails, wenn Termin storniert wird - gemeldet
 - Bug: Testing mit Handy - Kunde hat nur einen Slot gesehen?
@@ -51,3 +52,6 @@ Dokumentation des Samichlaus-Tool.
 - Steckbrief
   - Bug: Mailadresse bei Button falsch
   - Feature: Kommentar digital ausfüllen / Adobe Reader o.ä.
+
+- Webseite
+  - Texte zu Chlaussäckli von Eltern fehlen
