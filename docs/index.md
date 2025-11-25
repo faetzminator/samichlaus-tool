@@ -39,6 +39,10 @@ Dokumentation des Samichlaus-Tool.
 - Feature: Alternativer Termin - gleiches Datum ermöglichen?
 - Feature: Popup Werbung Neumitglieder (oder Status Buchungen etc.) auf Startseite
 - Feature: Aussenstandorte ohne Feieradresse analog "Waldhüsli" von Zürich
+- Feature: neue Seite FAQ
+- Feature: Status von Touren
+  - Storniert: farblich hinterlegt (grau), nicht Teil vom PDF
+  - Ausgebucht: farblich hinterlegt (gelb)
 - Improvement: Validierung während Termineingabe
   - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
   - Felder mit Fehlern hervorheben?

@@ -42,7 +42,7 @@ Titel: Samichlaus-Buchung - unvollständige Bestellung
 >
 > Bitte versuchen Sie es noch einmal mit der Bestellung.
 >
-> Liebe Grüsse, xxx
+> Lieber Gruss, xxx
 >
 > Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
 
@@ -70,7 +70,7 @@ Titel: Infos zur Samichlaus-Buchung im Rütihof
 >
 > Samichlaus freut sich auf viele strahlende Kinderaugen!
 >
-> Liebe Grüsse, xxx
+> Lieber Gruss, xxx
 >
 > Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
 
@@ -103,6 +103,58 @@ Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kindern
 >
 > Samichlaus freut sich auf viele strahlende Kinderaugen!
 >
-> Liebe Grüsse, xxx
+> Lieber Gruss, xxx
+>
+> Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
+
+### Steckbrief nicht erhalten
+
+Titel: Steckbrief für Samichlaus dringend benötigt
+
+> Grüezi Frau/Herr xxx
+>
+> Wir haben Ihren Termin inzwischen definitiv bestätigt.
+> Sie haben daher ein zweites Bestätigungsmail der Buchungsplattform erhalten.
+>
+> Leider scheint uns für Ihre Familienfeier der Kindersteckbrief zu fehlen.
+>
+> Wir bitten Sie dringend, den Steckbrief von unserer Webseite herunterzuladen, auszufüllen und an uns zurückzusenden.
+>
+> Folgend ein paar Tipps für einen reibungslosen Ablauf:
+> - Der Steckbrief kann und soll digital ausgefüllt werden (PDF mit Formularfeldern).
+> - Formularfelder werden nicht von allen PDF-Readern unterstützt, aber von diversen Browsern, Adobe Acrobat Produkten usw.
+> - Definitives Datum und Zeit, Buchungs-Nr. (#1xxxx) sowie Tour-Nr. (25-0xxx) stehen im zweiten Bestätigungsmail.
+> - Falls mehrere Familien/Haushalte an der Familienfeier teilnehmen, bitte ein zusammengeführtes PDF einreichen (bzw. mehrere, wenn mehr als 6 Kinder).
+>
+> Bei weiteren Fragen oder Problemen melden Sie sich bitte ungeniert bei uns.
+>
+> Lieber Gruss, xxx
+>
+> Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
+
+### Steckbrief mit falscher Anzahl
+
+Titel: Abweichende Anzahl Kinder auf Steckbrief für Samichlaus
+
+> Grüezi Frau/Herr xxx
+>
+> Wir haben Ihren Termin inzwischen definitiv bestätigt und haben von Ihnen einen Steckbrief erhalten.
+>
+> Ihre Buchung lautet auf X Kinder, im Steckbrief sind jedoch Y Kinder aufgeführt.
+>
+> Die Anzahl Kinder bei der Buchung sollte mit dem Steckbrief übereinstimmen.
+> Beispielsweise sollten Kleinkinder ohne Steckbrief bei der Buchung nicht dazugezählt werden, können jedoch im Kommentar erwähnt werden.
+>
+> Bitte melden Sie sich dringend, falls die oben genannte Zahl im Steckbrief nicht stimmt.
+>
+> Folgend ein paar Tipps für einen reibungslosen Ablauf:
+> - Der Steckbrief kann und soll digital ausgefüllt werden (PDF mit Formularfeldern).
+> - Formularfelder werden nicht von allen PDF-Readern unterstützt, aber von diversen Browsern, Adobe Acrobat Produkten usw.
+> - Definitives Datum und Zeit, Buchungs-Nr. (#1xxxx) sowie Tour-Nr. (25-0xxx) stehen im zweiten Bestätigungsmail.
+> - Falls mehrere Familien/Haushalte an der Familienfeier teilnehmen, bitte ein zusammengeführtes PDF einreichen (bzw. mehrere, wenn mehr als 6 Kinder).
+>
+> Bei weiteren Fragen oder Problemen melden Sie sich bitte ungeniert bei uns.
+>
+> Lieber Gruss, xxx
 >
 > Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
