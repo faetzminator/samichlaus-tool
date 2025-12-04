@@ -7,6 +7,20 @@ Wunschdatum nicht möglich:
 > Wir bemühen uns, die Kundentermine immer auf das Wunschdatum zu legen.
 > Der angezeigte Terminkalender im Buchungssystem kann die Realität nicht zu 100 % abbilden, da unsere Tourplanung von vielen Faktoren beeinflusst wird.
 
+Bereitstellung von Chlaussäcken:
+
+> Aus diversen Gründen (Wünsche & Allergien, Organisation & Aufwände, allenfalls Lebensmittelgesetz) bringt Samichlaus selbst keine Gaben mit (ausgenommen Aussenstandort).
+> Wir freuen uns, wenn die Eltern Chlaussäcke (oder auch lose Mandarinli, Nüssli etc.) bereitstellen. Bei unterschiedlichen Gaben/Säcken gerne mit Name beschriftet.
+> Wir übernehmen die Gaben gemäss Absprache bzw. Kindersteckbrief (oft via Milchkasten), bringen sie in einem Jutesack mit und integrieren die Übergabe in die Feier.
+
+Spenden bei Familienfeiern:
+
+> Wir erhalten die Spenden für Familienfeiern meist bar beim Verlassen der Feier.
+> Falls Sie alternativ lieber via Bankeinzahlung oder TWINT spenden, finden Sie die QR-Codes und den Einzahlungsschein auf https://samichlaus-buelach.ch/bankverbindung/ .
+> Bei einer Onlinezahlung bitte die Spende entsprechend kommentieren, sodass wir sie einem Zweck oder Besuch zuweisen können.
+>
+> Die Spenden werden zur Finanzierung des Chlaus-Einzuges am Bülacher Weihnachtsmarkt sowie für die Beschaffung und Reinigung der Kostüme und Perücken verwendet.
+
 Unleserlicher Steckbrief erhalten:
 
 > Es würde Schmutzli sehr schwerfallen, in halber Dunkelheit ein Foto eines handgeschriebenen Steckbriefes zu lesen.
@@ -26,7 +40,6 @@ Termin noch nicht definitiv:
 >
 > Sie können davon ausgehen, dass der Termin innerhalb des gewünschten Zeitfensters stattfinden wird, möglicherweise 30 Min. vor oder nach obiger Angabe.
 > Besten Dank fürs Verständnis.
-
 
 ## Mail-Templates
 
