@@ -36,6 +36,7 @@ Dokumentation des Samichlaus-Tool.
   - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
     - auch bei "in Bearbeitung" anzeigen
     - JetAppointment Nummer könnte weichen
+- Feature: Anzahl Kinder bei Buchung - Subtext für Erklärung Anzahl Steckbrief?
 - Feature: Alternativer Termin - gleiches Datum ermöglichen?
 - Feature: Popup Werbung Neumitglieder (oder Status Buchungen etc.) auf Startseite
 - Feature: Aussenstandorte ohne Feieradresse analog "Waldhüsli" von Zürich
@@ -55,7 +56,9 @@ Dokumentation des Samichlaus-Tool.
 
 - Steckbrief
   - Bug: Mailadresse bei Button falsch
+  - Feature: "Name", "Vorname", "Strasse / Nr.", "PLZ", "Ort", "Tel." - Feieradresse vs. Rechnungsadresse
   - Feature: Kommentar digital ausfüllen / Adobe Reader o.ä.
 
 - Webseite
   - Texte zu Chlaussäckli von Eltern fehlen
+  - Höhe Spenden beschreiben?
