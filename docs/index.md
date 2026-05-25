@@ -25,14 +25,14 @@ Dokumentation des Samichlaus-Tool.
 ### Kundenseitig
 
 - Änderungen Buchung
-  - Feature: Anzahl Kinder bei Buchung - Subtext für Erklärung Anzahl Steckbrief?
+  - Feature: Anzahl Kinder bei Buchung - Subtext für Erklärung Anzahl Steckbrief
   - Feature: Alternativer Termin - gleiches Datum ermöglichen?
   - Feature: Aussenstandorte ohne Feieradresse analog "Waldhüsli" von Zürich
+  - Feature: Validierung während Termineingabe
+    - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
+    - Felder mit Fehlern hervorheben?
 - Feature: Popup Werbung Neumitglieder und Spenden (oder Status Buchungen etc.) auf Startseite
 - Feature: neue Seite FAQ (inkl. Top Menu)
-- Improvement: Validierung während Termineingabe
-  - Bessere Texte, z.B. wenn keine Nummer (Anzahl Kinder & Erwachsene)
-  - Felder mit Fehlern hervorheben?
 - Bug: Kunde erhält bis zu 3 gleiche Mails, wenn Termin storniert wird - gemeldet
 - Bug: Termine ab 5 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
 - Webseite Allgemein
@@ -49,23 +49,21 @@ Dokumentation des Samichlaus-Tool.
 ### Einsatzzentrale
 
 - Änderungen Chlauschef-Tools
-  - Anzahl Kinder & Erwachsene inkonsistent
-    - Chlauschef-Tools ➔ Buchungsliste: Total sichtbar - trennen?
-    - Chlauschef-Tools ➔ Tourenliste: Anzeigen?
   - Anzeige Chlauschef-Tools ➔ Tourenliste
     - Anzeige von Anzahl Kindern und Erwachsenen (z.B. rechts oben)
-      - JetAppointment Nummer irrelevant (2026: wo ist die hin?)
     - Details auch "in Bearbeitung" etc. anzeigen
       - statt Stern andere Symbole? Sanduhr (in Bearbeitung), Kreuz (storniert), ...
       - angepasste Hintergrundfarbe? grau (in Bearbeitung), rot (storniert), ...
     - Paging: Mehr Touren auf einer Seite anzeigen
+  - Anzeige Chlauschef-Tools ➔ Buchungsliste
+    - Trennung von Anzahl Teilnehmer in Kinder und Erwachsene
 - WP Admin - WooCommerce
- - Bug: löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen - gemeldet
+  - Bug: löscht manchmal "Besuchszeit von" bei Bearbeitung von Terminen - gemeldet
 - Mailbenachrichtigungen
   - Mails an `info@` unnötig
 
 ### Vorstand
 
 - Feature: Mailboxen für Kassier etc.?
-- Diskussion: gewissen Gemeinden streichen?
+- Diskussion: gewisse Gemeinden streichen?
 - Diskussion: Vorschlag Spende pro Kind auf Webseite?
