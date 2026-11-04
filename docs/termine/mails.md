@@ -72,7 +72,7 @@ Titel: Infos zur Samichlaus-Buchung im Rütihof
 > Folgend für den Aussenstandort Rütihof noch ein paar Informationen.
 > - Sie werden beim Zugang zum Rütihof von einem Mitglied von uns empfangen, welches sicherstellt, dass alle Gäste ihre Zeit beim Samichlaus privat geniessen können.
 > - Wir halten für jedes (angemeldete) Kind ein Chlaussäckli bereit, Sie müssen dementsprechend keine Gaben mitbringen.
-> - Deshalb verrechnen wir, wie auf der Webseite und während der Buchung ausgewiesen, Fr. 25.- pro Kind.
+> - Deshalb verrechnen wir, wie auf der Webseite und während der Buchung ausgewiesen, Fr. 30.- pro Kind.
 >
 > Bitte bezahlen Sie die Beiträge vorgängig mit Angabe des Termins (Name, Buchungsnummer, Tour-Nr.) via Bankeinzahlung oder TWINT.
 > Die QR-Codes und den Einzahlungsschein dazu finden Sie auf https://samichlaus-buelach.ch/bankverbindung/ .
@@ -87,9 +87,9 @@ Titel: Infos zur Samichlaus-Buchung im Rütihof
 >
 > Einsatzzentrale St. Nikolaus-Gesellschaft Bülach
 
-## Infos Familienfeiern ab 5 Kinder
+## Infos Familienfeiern ab 4 Kinder
 
-Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kindern
+Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 4 Kindern
 
 > Grüezi Frau/Herr xxx
 >
@@ -97,8 +97,9 @@ Titel: Infos zur Samichlaus-Buchung für die Familienfeier ab 5 Kindern
 >
 > Ihren Termin haben wir definitiv eingeplant. Sie sollten inzwischen ein Bestätigungsmail unserer Buchungsplattform, inklusive der Daten für den Steckbrief (definitives Datum und Zeit sowie Tour-Nr.), erhalten haben.
 >
-> Für Familienfeiern ab 5 Kindern planen wir entsprechend mehr Zeit ein und haben, wie auf der Webseite ausgewiesen, die folgenden Fixpreise:
-> Für 5 bis 10 Kinder Fr. 100.-, für 11 bis 20 Kinder Fr. 150.- und ab 21 Kindern Fr. 200.-.
+> Für Familienfeiern ab 4 Kindern planen wir entsprechend mehr Zeit ein und haben, wie auf der Webseite ausgewiesen, die folgenden Fixpreise:
+> Bei Familienbesuchen mit 4 Kindern verrechnen wir Fr. 100.-. Für jedes weitere Kind (mit Steckbrief) gilt ein Aufschlag von Fr. 20.-.
+> Für Grossfeiern gilt der Preis, den wir mit Ihnen während des Buchungsprozesses abgemacht haben.
 >
 > Wir erhalten die Unkostenbeiträge für Familienfeiern meist bar beim Verlassen der Feier.
 > Falls Sie alternativ lieber via Bankeinzahlung oder TWINT bezahlen, finden Sie die QR-Codes und den Einzahlungsschein auf https://samichlaus-buelach.ch/bankverbindung/ .

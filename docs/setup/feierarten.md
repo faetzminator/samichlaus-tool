@@ -11,44 +11,42 @@
 
 | Short    | Titel                                                                  | Anbieter                            |
 |----------|------------------------------------------------------------------------|-------------------------------------|
-| `RHOF20` | Familienfeier bis 4 Kinder im Rütihof                                  | Aussenstandorte                     |
-| `RHOF40` | Familienfeier ab 5 Kinder im Rütihof                                   | Aussenstandorte                     |
+| `RHOF20` | Familienfeier bis 3 Kinder im Rütihof                                  | Aussenstandorte                     |
+| `RHOF40` | Familienfeier ab 4 Kinder im Rütihof                                   | Aussenstandorte                     |
 |          |                                                                        |                                     |
-| `BUEL20` | Familienfeier bis 4 Kinder in Bülach                                   | Samichlaus Bülach                   |
-| `BUEL40` | Familienfeier ab 5 Kinder in Bülach                                    | Samichlaus Bülach                   |
+| `BUEL20` | Familienfeier bis 3 Kinder in Bülach                                   | Samichlaus Bülach                   |
+| `BUEL40` | Familienfeier ab 4 Kinder in Bülach                                    | Samichlaus Bülach                   |
 |          |                                                                        |                                     |
-| `HOHO20` | Familienfeier bis 4 Kinder in Höri & Hochfelden                        | Samichlaus in umliegenden Gemeinden |
-| `HOHO40` | Familienfeier ab 5 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden |
-| `BABU20` | Familienfeier bis 4 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden |
-| `BABU40` | Familienfeier ab 5 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden |
-| `WNKL20` | Familienfeier bis 4 Kinder in Winkel/Rüti                              | Samichlaus in umliegenden Gemeinden |
-| `WNKL40` | Familienfeier ab 5 Kinder in Winkel/Rüti                               | Samichlaus in umliegenden Gemeinden |
-| `GLTF20` | Familienfeier bis 4 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden |
-| `GLTF40` | Familienfeier ab 5 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden |
-| `EGLI20` | Familienfeier bis 4 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden |
-| `EGLI40` | Familienfeier ab 5 Kinder in Eglisau                                   | Samichlaus in umliegenden Gemeinden |
-| `EMBR20` | Familienfeier bis 4 Kinder in Embrach                                  | Samichlaus in umliegenden Gemeinden |
-| `EMBR40` | Familienfeier ab 5 Kinder in Embrach                                   | Samichlaus in umliegenden Gemeinden |
+| `HOHO20` | Familienfeier bis 3 Kinder in Höri & Hochfelden                        | Samichlaus in umliegenden Gemeinden |
+| `HOHO40` | Familienfeier ab 4 Kinder in Höri & Hochfelden                         | Samichlaus in umliegenden Gemeinden |
+| `BABU20` | Familienfeier bis 3 Kinder in Bachenbülach                             | Samichlaus in umliegenden Gemeinden |
+| `BABU40` | Familienfeier ab 4 Kinder in Bachenbülach                              | Samichlaus in umliegenden Gemeinden |
+| `WNKL20` | Familienfeier bis 3 Kinder in Winkel/Rüti                              | Samichlaus in umliegenden Gemeinden |
+| `WNKL40` | Familienfeier ab 4 Kinder in Winkel/Rüti                               | Samichlaus in umliegenden Gemeinden |
+| `GLTF20` | Familienfeier bis 3 Kinder in Glattfelden                              | Samichlaus in umliegenden Gemeinden |
+| `GLTF40` | Familienfeier ab 4 Kinder in Glattfelden                               | Samichlaus in umliegenden Gemeinden |
+| `EGLI20` | Familienfeier bis 3 Kinder in Eglisau                                  | Samichlaus in umliegenden Gemeinden |
+| `EGLI40` | Familienfeier ab 4 Kinder in Eglisau                                   | Samichlaus in umliegenden Gemeinden |
+| `EMBR20` | Familienfeier bis 3 Kinder in Embrach                                  | Samichlaus in umliegenden Gemeinden |
+| `EMBR40` | Familienfeier ab 4 Kinder in Embrach                                   | Samichlaus in umliegenden Gemeinden |
 |          |                                                                        |                                     |
-| `NEER20` | Familienfeier bis 4 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden       |
-| `NEER40` | Familienfeier ab 5 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden       |
-| `LFOE20` | Familienfeier bis 4 Kinder in Lufingen/Augwil & Oberembrach            | Samichlaus in Aussengemeinden       |
-| `LFOE40` | Familienfeier ab 5 Kinder in Lufingen/Augwil & Oberembrach             | Samichlaus in Aussengemeinden       |
-| `STAD20` | Familienfeier bis 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden       |
-| `STAD40` | Familienfeier ab 5 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden       |
-| `RFZF20` | Familienfeier bis 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden       |
-| `RFZF40` | Familienfeier ab 5 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz      | Samichlaus in Aussengemeinden       |
-| `RORB20` | Familienfeier bis 4 Kinder in Rorbas & Freienstein-Teufen              | Samichlaus in Aussengemeinden       |
-| `RORB40` | Familienfeier ab 5 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden       |
+| `NEER20` | Familienfeier bis 3 Kinder in Neerach/Riedt                            | Samichlaus in Aussengemeinden       |
+| `NEER40` | Familienfeier ab 4 Kinder in Neerach/Riedt                             | Samichlaus in Aussengemeinden       |
+| `STAD20` | Familienfeier bis 3 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach | Samichlaus in Aussengemeinden       |
+| `STAD40` | Familienfeier ab 4 Kinder in Stadel/Raat/Schüpfheim/Windlach & Weiach  | Samichlaus in Aussengemeinden       |
+| `RFZF20` | Familienfeier bis 3 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz     | Samichlaus in Aussengemeinden       |
+| `RFZF40` | Familienfeier ab 4 Kinder in Hüntwangen, Wasterkingen, Wil & Rafz      | Samichlaus in Aussengemeinden       |
+| `RORB20` | Familienfeier bis 3 Kinder in Rorbas & Freienstein-Teufen              | Samichlaus in Aussengemeinden       |
+| `RORB40` | Familienfeier ab 4 Kinder in Rorbas & Freienstein-Teufen               | Samichlaus in Aussengemeinden       |
 
 Nach Eingabe der Feierarten das Erscheinungsbild auf der Buchungsseite überprüfen. Wo nötig mit unterschiedlichen
 Trennzeichen (z.B. Leerzeichen statt Schrägstrich) arbeiten.
 
 ## Daten
 
-### Familienbesuch bis 4 Kinder
+### Familienbesuch bis 3 Kinder
 
-Titel: Familienfeier bis 4 Kinder in `<Ort>`
+Titel: Familienfeier bis 3 Kinder in `<Ort>`
 
 H3:
 
@@ -75,7 +73,7 @@ Beschreibung
 > - Bei einem Familienbesuch sollen alle auf ihre Kosten kommen: die Kinder, die Eltern und Grosseltern, Gotte und Götti und Freunde der Familie. Samichlaus und Schmutzli geben den Kindern eine Rückmeldung zu ihrem Verhalten. Sie können aber niemals die tägliche Erziehungsarbeit ersetzen. Setzen Sie Samichlaus und Schmutzli deshalb bitte nie als Drohmittel ein.
 
 - Short: *siehe Tabelle oben*
-- Dauer: `00:20`
+- Dauer: `ab 00:10`
 - Preis Label: `Spende:`
 - [x] Preis individuell
 - Kapazität: `3` (für 1h)
@@ -88,9 +86,9 @@ Beschreibung
 Rechts
 - Related Anbieter: *korrekten Anbieter verknüpfen*
 
-### Familienbesuch ab 5 Kinder
+### Familienbesuch ab 4 Kinder
 
-Titel: Familienfeier ab 5 Kinder in `<Ort>`
+Titel: Familienfeier ab 4 Kinder in `<Ort>`
 
 H3:
 
@@ -106,7 +104,8 @@ Text gerne in zwei Spalten:
 >
 > Zum Schluss dürfen die Kinder gemeinsam mit Schmutzli den Sack ausleeren. Darin befindet sich, was die Eltern bereitgestellt haben. Traditionell bringt Samichlaus Lebkuchen, Mandarinen, Nüsse, Schokolade und Tirggel. Am meisten Freude haben Schmutzli und die Kinder, wenn die Sachen nicht in Säcke verpackt sind, sondern lose über den Boden kullern.
 >
-> Bei Familienbesuchen **ab 5 Kindern verrechnen wir** Fr. 100.-, ab 11 Kindern Fr. 150.- und ab 21 Kindern Fr. 200.-.
+> Bei Familienbesuchen **mit 4 Kindern verrechnen wir** Fr. 100.-. Für jedes weitere Kind (mit Steckbrief) gilt ein Aufschlag von Fr. 20.-.
+> Feiern ab 10 Kindern werden als Grossanlass individuell geplant und kosten ab 200.-.
 
 #### Einstellungen
 
@@ -119,11 +118,11 @@ Beschreibung
 > - Bei einem Familienbesuch sollen alle auf ihre Kosten kommen: die Kinder, die Eltern und Grosseltern, Gotte und Götti und Freunde der Familie. Samichlaus und Schmutzli geben den Kindern eine Rückmeldung zu ihrem Verhalten. Sie können aber niemals die tägliche Erziehungsarbeit ersetzen. Setzen Sie Samichlaus und Schmutzli deshalb bitte nie als Drohmittel ein.
 
 - Short: *siehe Tabelle oben*
-- Dauer: `00:40`
+- Dauer: `ab 00:20`
 - Preis Label: `Preis:`
 - [x] Preis ab
-- Kapazität: `1` (für 1-2h)
-  - Bülach: `2` (für 1-2h) bei Touren 01, 02, 03
+- Kapazität: `2` (für 1-2h)
+  - Bülach: `4` (für 1-2h) bei Touren 01, 02, 03
 - [x] Price per: Slot
 - Preis pro Slot: `100`
 - [ ] Benutzerdefinierten Zeitplan verwenden
@@ -134,7 +133,7 @@ Rechts
 
 ### Aussenstandorte
 
-Titel: Familienfeier bis 4 Kinder / ab 5 Kinder im `<Standort>`
+Titel: Familienfeier bis 3 Kinder / ab 4 Kinder im `<Standort>`
 
 H3:
 
@@ -150,7 +149,7 @@ Text gerne in zwei Spalten:
 >
 > Ermöglichen Sie Ihren Kindern, Samichlaus und Schmutzli in der Natur anzutreffen, nach einem kurzen Spaziergang durch den nächtlichen Wald.
 >
-> Für den Aussenstandort berechnen wir **25.- pro Kind**. Dabei inbegriffen ist ein Chlaussäckli pro Kind.
+> Für den Aussenstandort berechnen wir **30.- pro Kind**. Dabei inbegriffen ist ein Chlaussäckli pro Kind.
 
 #### Einstellungen
 
@@ -163,12 +162,12 @@ Beschreibung
 > - Bei einem Familienbesuch sollen alle auf ihre Kosten kommen: die Kinder, die Eltern und Grosseltern, Gotte und Götti und Freunde der Familie. Samichlaus und Schmutzli geben den Kindern eine Rückmeldung zu ihrem Verhalten. Sie können aber niemals die tägliche Erziehungsarbeit ersetzen. Setzen Sie Samichlaus und Schmutzli deshalb bitte nie als Drohmittel ein.
 
 - Short: *siehe Tabelle oben*
-- Dauer: `00:20` / `00:40`*
+- Dauer: `ab 00:10` / `ab 00:20`*
 - Preis Label: `Preis pro Kind:`
 - [x] Preis pro Kind
-- Kapazität: `6` (für 2h) / `1`* (für 2h)
+- Kapazität: `6` (für 2h) / `3`* (für 2h)
 - [x] Price per: Slot
-- Preis pro Slot: `25`
+- Preis pro Slot: `30`
 - [ ] Benutzerdefinierten Zeitplan verwenden
 - Parent Anbieter: *korrekten Anbieter verknüpfen*
 

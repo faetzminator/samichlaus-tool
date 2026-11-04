@@ -34,7 +34,7 @@ Dokumentation des Samichlaus-Tool.
 - Feature: Popup Werbung Neumitglieder und Spenden (oder Status Buchungen etc.) auf Startseite
 - Feature: neue Seite FAQ (inkl. Top Menu)
 - Bug: Kunde erhält bis zu 3 gleiche Mails, wenn Termin storniert wird - gemeldet
-- Bug: Termine ab 5 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
+- Bug: Termine ab 4 Kindern (Ab 100.-) bei Buchung 0.- (war 100.-, auch nicht optimal)
 - Webseite Allgemein
   - Texte zu Chlaussäckli von Eltern fehlen
   - Höhe Spenden beschreiben?

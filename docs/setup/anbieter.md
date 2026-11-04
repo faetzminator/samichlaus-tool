@@ -48,7 +48,7 @@ Text
 >
 > Nebst den Besuchen zu Hause kann man Samichlaus und Schmutzli seit einigen Jahren an Aussenstandorten treffen. Aktuell empfangen wir Familien am Rütihof Bülach hinter der Kantonsschule.
 >
-> Bei Besuchen am Aussenstandort wird – im Unterschied zu den Hausbesuchen – Samichlaus für jedes Kind ein Chlaussäckli bereitstellen. Darum müssen wir **pro Kind 25.-** verrechnen.
+> Bei Besuchen am Aussenstandort wird – im Unterschied zu den Hausbesuchen – Samichlaus für jedes Kind ein Chlaussäckli bereitstellen. Darum müssen wir **pro Kind 30.-** verrechnen.
 
 #### Einstellungen
 
